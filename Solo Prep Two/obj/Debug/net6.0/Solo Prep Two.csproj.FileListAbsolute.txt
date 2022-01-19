@@ -1,0 +1,15 @@
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\obj\Debug\net6.0\Solo Prep Two.csproj.AssemblyReference.cache
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\obj\Debug\net6.0\Solo Prep Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\obj\Debug\net6.0\Solo Prep Two.AssemblyInfoInputs.cache
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\obj\Debug\net6.0\Solo Prep Two.AssemblyInfo.cs
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\obj\Debug\net6.0\Solo Prep Two.csproj.CoreCompileInputs.cache
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\bin\Debug\net6.0\Solo Prep Two.exe
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\bin\Debug\net6.0\Solo Prep Two.deps.json
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\bin\Debug\net6.0\Solo Prep Two.runtimeconfig.json
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\bin\Debug\net6.0\Solo Prep Two.dll
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\bin\Debug\net6.0\ref\Solo Prep Two.dll
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\bin\Debug\net6.0\Solo Prep Two.pdb
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\obj\Debug\net6.0\Solo Prep Two.dll
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\obj\Debug\net6.0\ref\Solo Prep Two.dll
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\obj\Debug\net6.0\Solo Prep Two.pdb
+C:\data\BYUI Classes\CSE210 programming with classes\Solo Prep Two\obj\Debug\net6.0\Solo Prep Two.genruntimeconfig.cache
